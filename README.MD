@@ -1,4 +1,8 @@
-Udacity Machine Learning Nano Degree - Capstone Project
+Sneaker Classification App
 
-WUTRTHOS - Using CNN identifying sneakers
+
+This repository is my Udacity MLND Capstone Project.
+Using CNN to create a model predicitng different sneakers.
+
+Live demo: http://whatrth0se.herokuapp.com/
 
