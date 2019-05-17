@@ -26,4 +26,4 @@ Python library used
 --BeautifulSoup
 --stockxsdk
 --cv2
-
+--flask
