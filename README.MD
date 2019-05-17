@@ -18,6 +18,7 @@ if checkbox checked, it will try removing background first then doing prediciton
 Python library used
 
 --pandas
+
 --numpy
 --tensoflow
 --keras
